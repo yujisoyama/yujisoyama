@@ -1,8 +1,8 @@
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Fabio Yuji!
 
-- 🔭 I’m currently working as Systems Analyst
-- 🌱 I’m currently learning TypeScript and Python
+- 🔭 I’m currently working as Systems Analyst, looking for new opportunities to start my journey as a developer.
+- 🌱 Currently learning TypeScript and Python
 - 🔨 Started working on some personal projects for my development, increase my portfolio and github profile as well
 
 ### Tools and Technologies
